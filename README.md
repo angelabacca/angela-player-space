@@ -11,9 +11,8 @@ optional tag-line
 hey
 
 ## Identities
-* [github](https://github.com/github_id)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
+* [github](https://github.com/angelabacca)
+* [linkedin](https://www.linkedin.com/in/angelabacca/)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
