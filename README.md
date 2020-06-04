@@ -1,14 +1,12 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@github_id)
-
-optional tag-line
+# Name (@AngelaBacca)
 
 <img align="right" width="250" src="avatar.png">
 
 ## Bio
 
-hey
+Ethical Data Alliance 
 
 ## Identities
 * [github](https://github.com/angelabacca)
@@ -19,4 +17,4 @@ hey
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   
 ## Achievements
-TBD
+:)
